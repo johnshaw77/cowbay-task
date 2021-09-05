@@ -1,0 +1,23 @@
+{
+  "name": "cowbay-task",
+  "version": "1.0.0",
+  "description": "Just Cowbay",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnshaw77/cowbay-task.git"
+  },
+  "author": "John",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnshaw77/cowbay-task/issues"
+  },
+  "homepage": "https://github.com/johnshaw77/cowbay-task#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
