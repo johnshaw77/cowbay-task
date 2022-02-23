@@ -6,7 +6,7 @@
 const express = require('express')
 const app = express()
 
-app.get('/', (req, res) => res.send('<h1 style="color:blue;font-size:164px;margin:400px 50px;">超人再起</h1>'))
+app.get('/', (req, res) => res.send('<h1 style="color:blue;font-size:164px;margin:400px 50px;">超人9900再起</h1>'))
 var server = app.listen(process.env.PORT || 8080, function() {
   var port = server.address().port;
   console.log('目前的port是', port);
